@@ -23,7 +23,7 @@ Also I have some other skills:
 ### 🌱 Education
 
 I graduated from Peter the Great St. Petersburg Polytechnic University with a bachelor's degree in 2022!
-My bachelor's thesis is "Research on complex matchmaking systems in multiplayer games". It is dedicated to the data science solutions of various matchmaking problems in modern online games.
+My bachelor's thesis is **"Research on complex matchmaking systems in multiplayer games"**. It is dedicated to the data science solutions of various matchmaking problems in modern online games.
 
 ### ⚡ Employment
 
