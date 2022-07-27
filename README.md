@@ -31,13 +31,13 @@ Currently I am looking for Junior Java Backend Developer position in St.Petersbu
 
 ### 📫 How to reach me
 
-- LinkedIn: www.linkedin.com/in/goldswanru
-- Telegram: https://t.me/GoldSwan_w
-- VK: https://vk.com/goldswanru
+- [LinkedIn](www.linkedin.com/in/goldswanru)
+- [Telegram](https://t.me/GoldSwan_w)
+- [VK](https://vk.com/goldswanru)
 - Discord: GoldSwan#9891
 - Email: goldswanru@gmail.com
 
-### My GitHub stats
+### 💬 My GitHub stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoldSwanGH&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
