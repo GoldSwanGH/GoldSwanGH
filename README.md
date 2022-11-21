@@ -27,7 +27,7 @@ My bachelor's thesis is **"Research on complex matchmaking systems in multiplaye
 
 ### ⚡ Employment
 
-Currently I am looking for Junior Java Backend Developer position in St.Petersburg!
+Currently I am looking for Trainee/Junior Java Backend Developer position in St.Petersburg!
 
 ### 📫 How to reach me
 
