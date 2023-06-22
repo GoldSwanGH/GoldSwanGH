@@ -27,7 +27,7 @@ My bachelor's thesis is **"Research on complex matchmaking systems in multiplaye
 
 ### ⚡ Employment
 
-Currently I am working as Trainee Java Backend Developer in Sberbank!
+Currently I am working as Java Backend Developer in Sberbank!
 
 ### 📫 How to reach me
 
