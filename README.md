@@ -1,6 +1,6 @@
 ## Hi everyone 👋
 
-My name is **Lebedev Vladimir** and I am passionate about web-programming!
+My name is **Lebedev Vladimir** and I am passionate about programming!
 Mostly I enjoy working on back-end of applications, especially in Java.
 
 ### 🔭 Skills
